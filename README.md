@@ -1,1 +1,5 @@
-# doublelinkedlist
+doublelinkedlist
+
+c를 사용하여 양방향 연결 리스트 구현
+
+양방향 연결 리스트에는 노드 추가/삭제/삽입/전방 탐색/후방 탐색 기능 추가
